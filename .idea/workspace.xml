@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b453be8-86fd-4199-afd4-c25ad6e8776c" name="Default Changelist" comment="" />
+    <list default="true" id="4b453be8-86fd-4199-afd4-c25ad6e8776c" name="Default Changelist" comment="First Commit in New Branch" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +17,11 @@
     </projectState>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="408d9777ad273301a0755a3c1348f95404bbda94" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="25urtMPw4Ob3X1ffHOsLZqTSYoj" />
@@ -117,6 +122,8 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.ListViewModelTest" />
+        <item itemvalue="Gradle.ListViewModelTest" />
+        <item itemvalue="Gradle.ListViewModelTest" />
       </list>
     </recent_temporary>
   </component>
@@ -129,6 +136,14 @@
       <option name="presentableId" value="Default" />
       <updated>1646388025939</updated>
     </task>
+    <task id="LOCAL-00001" summary="First Commit in New Branch">
+      <created>1651574235357</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1651574235357</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -141,5 +156,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit in New Branch" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit in New Branch" />
   </component>
 </project>
