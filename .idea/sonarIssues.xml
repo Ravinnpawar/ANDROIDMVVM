@@ -8,6 +8,26 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-testing/2.0.0/a53c7e5ac1082c8ba113336aea25c46c8611be2d/core-testing-2.0.0-sources.jar!/androidx/arch/core/executor/testing/InstantTaskExecutorRule.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/br/com/ht7/androidmvvm/models/CountryApi.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-mvvm-master/app/src/main/java/br/com/ht7/androidmvvm/di/modules/ApiModule.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../android-mvvm-master/app/src/main/java/br/com/ht7/androidmvvm/models/Country.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
       </map>
     </option>
   </component>

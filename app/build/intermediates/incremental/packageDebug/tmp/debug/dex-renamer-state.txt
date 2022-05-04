@@ -1,0 +1,4 @@
+#Wed May 04 07:07:46 IST 2022
+base.0=C\:\\Users\\ravin\\Desktop\\prjcts\\ANDROIDMVVM\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
