@@ -10,7 +10,7 @@ import retrofit2.converter.gson.GsonConverterFactory
 
 @Module
 class ApiModule {
-    private val baseUrl: String = "https://restcountries.eu/rest/v2/"
+    private val baseUrl: String = "https://restcountries.com/v2/"
 
     private lateinit var retrofit: Retrofit
 
