@@ -4,9 +4,9 @@ import com.google.gson.annotations.SerializedName
 
 data class Country (
     @SerializedName("name")
-    val name: String? = "",
+    val name: String = "",
     @SerializedName("flag")
-    val flag: String? = "",
+    val flag: String = "",
     @SerializedName("capital")
-    val capital: String? = ""
+    val capital: String = ""
 )

@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import androidx.lifecycle.Observer
-import androidx.lifecycle.ViewModelProviders
+import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import br.com.ht7.androidmvvm.R
 import br.com.ht7.androidmvvm.ui.adapters.CountryListAdapter
@@ -23,7 +23,7 @@ class MainActivity : AppCompatActivity() {
 
         title = "Android MVVM"
 
-        viewModel = ViewModelProviders.of(this).get(ListViewModel::class.java)
+        viewModel = ViewModelProvider(this).get(ListViewModel::class.java)
         viewModel.refresh()
 
         rv_countries.apply {
