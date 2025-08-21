@@ -1,0 +1,10 @@
+[
+  {"name": "Raisins", "price": 320, "unit": "kg", "category": "dry-fruits"},
+  {"name": "Almonds", "price": 780, "unit": "kg", "category": "dry-fruits"},
+  {"name": "Tomatoes", "price": 30, "unit": "kg", "category": "vegetables"},
+  {"name": "Milk 1L", "price": 55, "unit": "pack", "category": "dairy"},
+  {"name": "Rice Basmati", "price": 98, "unit": "kg", "category": "grains"},
+  {"name": "Sugar", "price": 42, "unit": "kg", "category": "grocery"},
+  {"name": "Groundnut Oil 1L", "price": 160, "unit": "bottle", "category": "oil"}
+]
+
