@@ -1,0 +1,59 @@
+[
+  {
+    "id": "raisins",
+    "name": "Raisins",
+    "synonyms": ["kishmish", "kismis", "draksha"],
+    "unit": "kg",
+    "price_inr": 450
+  },
+  {
+    "id": "almonds",
+    "name": "Almonds",
+    "synonyms": ["badam"],
+    "unit": "kg",
+    "price_inr": 900
+  },
+  {
+    "id": "cashews",
+    "name": "Cashews",
+    "synonyms": ["kaju"],
+    "unit": "kg",
+    "price_inr": 950
+  },
+  {
+    "id": "rice",
+    "name": "Basmati Rice",
+    "synonyms": ["chawal", "tandul"],
+    "unit": "kg",
+    "price_inr": 120
+  },
+  {
+    "id": "wheat",
+    "name": "Wheat Flour",
+    "synonyms": ["atta", "gahu peeth"],
+    "unit": "kg",
+    "price_inr": 48
+  },
+  {
+    "id": "milk",
+    "name": "Milk",
+    "synonyms": ["doodh", "doodh packet"],
+    "unit": "liter",
+    "price_inr": 60
+  },
+  {
+    "id": "eggs",
+    "name": "Eggs",
+    "synonyms": ["anda", "ande"],
+    "unit": "dozen",
+    "price_inr": 75
+  },
+  {
+    "id": "sugar",
+    "name": "Sugar",
+    "synonyms": ["cheeni", "sakhar"],
+    "unit": "kg",
+    "price_inr": 44
+  }
+]
+
